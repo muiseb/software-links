@@ -5,7 +5,7 @@ Links for all softwares used in 582 Multimedia
 - [Download](https://keeweb.info/) KeeWeb
 
 - [Download](https://www.figma.com/downloads/) Figma [Education Access](https://www.figma.com/education/)
-- [Download](https://www.autodesk.com/ca-en/products/fusion-360/) Fusion 360 [Education Access](https://www.autodesk.com/support/account/education/onboarding/students-guide)
+- [Download](https://www.autodesk.com/ca-en/products/fusion-360/) Fusion 360 [Education Access](https://www.autodesk.com/support/account/education/onboarding/students-guide) - [Register](https://accounts.autodesk.com/register) - [Select Fusion and ](https://www.autodesk.com/education/FSN)
 - [Download](https://www.microsoft.com/en-us/microsoft-365/download-office) Microsoft Office 36
 - [Download](https://code.visualstudio.com/) VS Code
 - [Download](https://fontba.se/) Font Base
