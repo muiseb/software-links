@@ -29,3 +29,11 @@ Teacher stations:
 
 - [Download](https://derivative.ca/download) Touch Designer on Teacher stations
 - [Download](https://zoom.us/download) Zoom software for Teacher station
+
+## Mac Fusion Launch
+
+Open Finder
+in the top menu, click on Go
+hold down the Option key, and click on Library
+navigate to Application Support > Autodesk > webdeploy > production
+double-click on Autodesk Fusion 360.app to open
