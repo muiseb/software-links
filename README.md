@@ -16,7 +16,7 @@ Links for all softwares used in 582 Multimedia
 - [Download](https://fontba.se/) Font Base
 - [Download](https://fontforge.org/en-US/downloads/) FontForge
 
-[Motion Graphics]
+## Motion Graphics
 
 - [Download](https://cavalry.scenegroup.co/pricing/#Options) Cavalry
 
