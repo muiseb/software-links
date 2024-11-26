@@ -31,6 +31,15 @@ Links for all softwares used in 582 Multimedia
 - Double-click on `Autodesk Fusion 360.app` to open
 - You can also create a shortcut to the desktop to make things easier
 
+### Fusion updates
+
+- Close Fusion
+- Log on to the [autodesk website](https://www.autodesk.com/)
+- Sign in
+- Click on profile icon on the top right
+- Under `Account`, select `Products and services`
+- Fusion should be in the list and you can just click on `Download` to get the new installer and install the new version of Fusion
+
 ## 3D Printing
 
 - [Download](https://www.prusa3d.com/page/prusaslicer_424/) Prusa Slicer
