@@ -67,6 +67,15 @@ and [Launch Fusion on Mac](#launch-fusion-on-mac).
 
 ## Additional Notes
 
+### Update Fusion Manually
+
+- Close Fusion
+- Log on to the [autodesk website](https://www.autodesk.com/)
+- Sign in
+- Click on profile icon on the top right
+- Under `Account`, select `Products and services`
+- Fusion should be in the list and you can just click on `Download` to get the new installer and install the new version of Fusion
+
 ### Launch Fusion on Mac
 
 - Open `Finder`
@@ -76,11 +85,3 @@ and [Launch Fusion on Mac](#launch-fusion-on-mac).
 - Double-click on `Autodesk Fusion 360.app` to open
 - You can also create a shortcut to the desktop to make things easier
 
-### Update Fusion Manually
-
-- Close Fusion
-- Log on to the [autodesk website](https://www.autodesk.com/)
-- Sign in
-- Click on profile icon on the top right
-- Under `Account`, select `Products and services`
-- Fusion should be in the list and you can just click on `Download` to get the new installer and install the new version of Fusion
