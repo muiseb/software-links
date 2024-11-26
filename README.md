@@ -61,7 +61,7 @@ and [Launch Fusion on Mac](#launch-fusion-on-mac).
 
 - [Download](https://rectangleapp.com/) Rectangle (rectangleapp.com)
 
-## Password Manage
+## Password Manager
 
 - [Download](https://keeweb.info/) KeeWeb
 
