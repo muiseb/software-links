@@ -18,7 +18,7 @@ Links for all softwares used in 582 Multimedia
 
 ## 3D Software
 
-- [Download](https://www.blender.org/download/) Blender 4.0
+- [Download](https://www.blender.org/download/) Blender 4.3 (or higher)
 - [Download](https://www.autodesk.com/ca-en/products/fusion-360/) Fusion 360 [Register](https://accounts.autodesk.com/register) - [Students obtaining products for themselves
 ](https://www.autodesk.com/support/account/education/onboarding/students-guide#title-3383ce4c81) - [Select Fusion](https://www.autodesk.com/education/FSN)
 
