@@ -22,23 +22,8 @@ Links for all softwares used in 582 Multimedia
 - [Download](https://www.autodesk.com/ca-en/products/fusion-360/) Fusion 360 [Register](https://accounts.autodesk.com/register) - [Students obtaining products for themselves
 ](https://www.autodesk.com/support/account/education/onboarding/students-guide#title-3383ce4c81) - [Select Fusion](https://www.autodesk.com/education/FSN)
 
-### Mac Fusion Launch
-
-- Open `Finder`
-- In the `top menu bar`, click on `Go`
-- **Hold down** the `Option` key, and click on `Library`
-- Navigate to `Application Support > Autodesk > webdeploy > production`
-- Double-click on `Autodesk Fusion 360.app` to open
-- You can also create a shortcut to the desktop to make things easier
-
-### Fusion updates
-
-- Close Fusion
-- Log on to the [autodesk website](https://www.autodesk.com/)
-- Sign in
-- Click on profile icon on the top right
-- Under `Account`, select `Products and services`
-- Fusion should be in the list and you can just click on `Download` to get the new installer and install the new version of Fusion
+View additional notes regarding how to [Update Fusion Manually](#update-fusion-manually)
+and [Launch Fusion on Mac](#launch-fusion-on-mac).
 
 ## 3D Printing
 
@@ -81,3 +66,21 @@ Links for all softwares used in 582 Multimedia
 - [Download](https://keeweb.info/) KeeWeb
 
 ## Additional Notes
+
+### Launch Fusion on Mac
+
+- Open `Finder`
+- In the `top menu bar`, click on `Go`
+- **Hold down** the `Option` key, and click on `Library`
+- Navigate to `Application Support > Autodesk > webdeploy > production`
+- Double-click on `Autodesk Fusion 360.app` to open
+- You can also create a shortcut to the desktop to make things easier
+
+### Update Fusion Manually
+
+- Close Fusion
+- Log on to the [autodesk website](https://www.autodesk.com/)
+- Sign in
+- Click on profile icon on the top right
+- Under `Account`, select `Products and services`
+- Fusion should be in the list and you can just click on `Download` to get the new installer and install the new version of Fusion
