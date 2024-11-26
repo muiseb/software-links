@@ -51,6 +51,7 @@ and [Launch Fusion on Mac](#launch-fusion-on-mac).
 - [Download](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) Node with npm (Node Package Manager)
 - [Download](https://www.python.org/downloads/) Python
 - [Download](https://github.com/pygame/pygame) Pygame library
+- [Update] PIP
 
 If `python --version` doesn't work use `pip` or `Python.exe` (pc) instead.
 
