@@ -24,8 +24,8 @@ Links for all softwares used in 582 Multimedia
 
 ### Mac Fusion Launch
 
-- Open Finder
-- In the top menu, click on `Go`
+- Open `Finder`
+- In the `top menu bar`, click on `Go`
 - **Hold down** the `Option` key, and click on `Library`
 - Navigate to `Application Support > Autodesk > webdeploy > production`
 - Double-click on `Autodesk Fusion 360.app` to open
