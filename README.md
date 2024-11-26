@@ -16,6 +16,10 @@ Links for all softwares used in 582 Multimedia
 - [Download](https://fontba.se/) Font Base
 - [Download](https://fontforge.org/en-US/downloads/) FontForge
 
+[Motion Graphics]
+
+- [Download](https://cavalry.scenegroup.co/pricing/#Options) Cavalry
+
 ## 3D Software
 
 - [Download](https://www.blender.org/download/) Blender 4.3 (or higher)
@@ -29,9 +33,18 @@ and [Launch Fusion on Mac](#launch-fusion-on-mac).
 
 - [Download](https://www.prusa3d.com/page/prusaslicer_424/) Prusa Slicer
 
+## Real-time interactive
+
+- [Download](https://derivative.ca/download) TouchDesigner
+
 ## Augmented Reality
 
 - [Download](https://www.adobe.com/ca/products/aero.html) Aero
+
+## Game Engines
+
+- [Download](https://unity.com/download) Unity
+- [Download](https://www.unrealengine.com/en-US/download) Unreal Engine
 
 ## Raspberry Pi & Arduino
 
@@ -87,3 +100,7 @@ If `python --version` doesn't work use `pip` or `Python.exe` (pc) instead.
 - Navigate to `Application Support > Autodesk > webdeploy > production`
 - Double-click on `Autodesk Fusion 360.app` to open
 - You can also create a shortcut to the desktop to make things easier
+
+### Cavalry Resource
+
+- [The complete guide on “How to learn Cavalry app”](https://www.linkedin.com/pulse/complete-guide-how-learn-cavalry-app-elena-kudriavtseva-ubikc/)
