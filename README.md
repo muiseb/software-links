@@ -52,11 +52,6 @@ and [Launch Fusion on Mac](#launch-fusion-on-mac).
 - [Download](https://www.python.org/downloads/) Python
 - [Download](https://github.com/pygame/pygame) Pygame library
 
-## Teacher stations
-
-- [Download](https://derivative.ca/download) Touch Designer on Teacher stations
-- [Download](https://zoom.us/download) Zoom software for Teacher station
-
 ## Mac only
 
 - [Download](https://rectangleapp.com/) Rectangle (rectangleapp.com)
@@ -64,6 +59,11 @@ and [Launch Fusion on Mac](#launch-fusion-on-mac).
 ## Password Manager
 
 - [Download](https://keeweb.info/) KeeWeb
+
+## Teacher stations
+
+- [Download](https://derivative.ca/download) Touch Designer on Teacher stations
+- [Download](https://zoom.us/download) Zoom software for Teacher station
 
 ## Additional Notes
 
