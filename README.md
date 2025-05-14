@@ -6,6 +6,7 @@ Links for all softwares used in 582 Multimedia
 
 - [Download](https://www.mozilla.org/en-CA/firefox/new/) Firefox
 - [Download](https://www.microsoft.com/en-us/microsoft-365/download-office) Microsoft Office 365
+- [Download](https://www.videolan.org/vlc/) VLC Media Player
 
 ## Design Tools
 
@@ -22,7 +23,7 @@ Links for all softwares used in 582 Multimedia
 
 ## 3D Software
 
-- [Download](https://www.blender.org/download/) Blender 4.3 (or higher)
+- [Download](https://www.blender.org/download/) Blender 4.4 (or higher)
 - [Download](https://www.autodesk.com/ca-en/products/fusion-360/) Fusion 360 [Register](https://accounts.autodesk.com/register) - [Students obtaining products for themselves
 ](https://www.autodesk.com/support/account/education/onboarding/students-guide#title-3383ce4c81) - [Select Fusion](https://www.autodesk.com/education/FSN)
 
@@ -71,6 +72,11 @@ If `python --version` doesn't work use `pip` or `Python.exe` (pc) instead.
 ## Mac only
 
 - [Download](https://rectangleapp.com/) Rectangle (rectangleapp.com)
+
+## Maker Space Laptop
+
+-  [Download](https://www.silhouetteamerica.com/silhouette-studio?srsltid=AfmBOoobW33zNU7dfMvBrNITYXqxlzwmEzRS8T1YIrEPDF2FGZywBKwT) Sillouhette Studeo - Basic to Business Edition - ($99USD)
+-  [Update to latest version](https://lightburnsoftware.com/pages/license-page) Lightburn (for laser cutter)
 
 ## Password Manager
 
